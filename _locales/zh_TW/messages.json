@@ -1,0 +1,15 @@
+{
+    "appName": {
+        "message": "DuckDuckGo in ContextMenu",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "您可以透過右鍵並在DuckDuckGo上搜尋您所選取的字",
+        "description": "The description of the application"
+    },
+    "searchMessage": {
+        "message": "在 DuckDuckGo 上搜尋 ",
+        "quoteStart": "「",
+        "quoteEnd": "」"
+    }
+}

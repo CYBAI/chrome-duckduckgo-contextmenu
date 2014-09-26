@@ -1,0 +1,15 @@
+{
+    "appName": {
+        "message": "Contextmenu for DuckDuckGo",
+        "description": "Contextmenu for DuckDuckGo"
+    },
+    "appDescription": {
+        "message": "You can search what you select on DuckDuckGo from contextmenu.",
+        "description": "You can right click on what you select, then clicking on the message. It will create a new tab to search what you selected."
+    },
+    "searchMessage": {
+    	"message": "Search DuckDuckGo for ",
+        "quoteStart": "\"",
+        "quoteEnd": "\""
+    }
+}
