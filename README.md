@@ -1,4 +1,4 @@
 Chrome Extension of DuckDuckGo ContextMenu 
 ------------------------------------------
 
-You can search what you select on DuckDuckGo from contextmenu.
+You can search DuckDuckGo for what you select from contextmenu.
